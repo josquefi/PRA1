@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Apr 23 19:43:11 2023
-
-@author: josep
 """
 
 import requests
